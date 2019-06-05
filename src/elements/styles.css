@@ -1,3 +1,8 @@
+@font-face{
+    src: url("./NovaMono.ttf");
+    font-family: Nova;
+}
+
 .rotating-box{
     height: 400px;
     width: 400px;
@@ -21,6 +26,7 @@
     position: absolute;
     height: 400px;
     width: 400px;
+    text-align: center;
 }
 
 .front-side{
@@ -51,6 +57,11 @@
     transform: rotateX(90deg)
     translateY(200px);
     transform-origin: bottom;
+}
+
+p{
+    font-family: Nova;
+    margin: 50% auto;
 }
 
 @keyframes rotate{

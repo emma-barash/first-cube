@@ -5,7 +5,8 @@ const Dashboard = () => {
         <div className="rotating-box">
             <div className="single-rb">
                 <div className="front-side">
-                    <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224408/Shiba-Inu-On-White-03.jpg" alt="" />
+                    {/* <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224408/Shiba-Inu-On-White-03.jpg" alt="" /> */}
+                    <p>hello world</p>
                 </div>
                 <div className="back-side">
                     <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224408/Shiba-Inu-On-White-03.jpg" alt="" />
