@@ -5,22 +5,22 @@ const Dashboard = () => {
         <div className="rotating-box">
             <div className="single-rb">
                 <div className="front-side">
-                    <img src="" alt="" />
+                    <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224408/Shiba-Inu-On-White-03.jpg" alt="" />
                 </div>
                 <div className="back-side">
-                    <img src="" alt="" />
+                    <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224408/Shiba-Inu-On-White-03.jpg" alt="" />
                 </div>
                 <div className="left-side">
-                    <img src="" alt="" />
+                    <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224408/Shiba-Inu-On-White-03.jpg" alt="" />
                 </div>
                 <div className="right-side">
-                    <img src="" alt="" />
+                    <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224408/Shiba-Inu-On-White-03.jpg" alt="" />
                 </div>
                 <div className="top-side">
-                    <img src="" alt="" />
+                    <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224408/Shiba-Inu-On-White-03.jpg" alt="" />
                 </div>
                 <div className="bottom-side">
-                    <img src="" alt="" />
+                    <img src="https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12224408/Shiba-Inu-On-White-03.jpg" alt="" />
                 </div>
             </div>
         </div>
